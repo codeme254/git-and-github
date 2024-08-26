@@ -11,4 +11,5 @@
     <toc-element topic="Basics-of-adding-and-committing.md"/>
     <toc-element topic="Branches.md"/>
     <toc-element topic="Merging-Branches.md"/>
+    <toc-element topic="git-diff-comparing-changes.md"/>
 </instance-profile>
