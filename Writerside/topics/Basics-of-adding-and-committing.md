@@ -127,3 +127,14 @@ If we want to commit all the files in the working directory, there is another sh
 git commit -am "COMMIT_MESSAGE"
 ```
 ![Adding and committing everything shortcut](add_and_commit_3.png)
+
+## Editing a previous commit message
+Sometimes after hitting the enter button, you realise you used a wrong commit message or maybe made a typo in the commit message grammar.  
+Git offers us a way to edit the most recent commit message.  
+Simply run the command:
+```Bash
+git commit --amend
+```
+this will open your default text editor (vi, code, notepad et.c), from here, you can edit the commit message.
+
+Later on, we will learn how to edit past commit message as the above command will only work for the most recent commit message.
