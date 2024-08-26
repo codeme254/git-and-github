@@ -8,4 +8,5 @@
 
     <toc-element topic="starter.md"/>
     <toc-element topic="Installation-and-setup.md"/>
+    <toc-element topic="Basics-of-adding-and-committing.md"/>
 </instance-profile>
