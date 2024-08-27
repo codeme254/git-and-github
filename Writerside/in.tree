@@ -16,4 +16,5 @@
     <toc-element topic="GitHub.md"/>
     <toc-element topic="Fetching-and-pulling.md"/>
     <toc-element topic="git-tags.md"/>
+    <toc-element topic="git-aliases.md"/>
 </instance-profile>
