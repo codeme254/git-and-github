@@ -13,4 +13,5 @@
     <toc-element topic="Merging-Branches.md"/>
     <toc-element topic="git-diff-comparing-changes.md"/>
     <toc-element topic="stashing.md"/>
+    <toc-element topic="GitHub.md"/>
 </instance-profile>
